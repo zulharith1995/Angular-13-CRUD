@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Apple1",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 2000,
+      "comment": "This is good phone",
+      "date": "2022-06-22T16:00:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
